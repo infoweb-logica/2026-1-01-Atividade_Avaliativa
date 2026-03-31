@@ -1,0 +1,5 @@
+print("*** Cardápio ***")
+print("1. Pizza")
+print("2. Hambúrguer")
+print("3. Suco")
+print("*** Bom apetite ***")
